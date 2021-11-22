@@ -11,6 +11,8 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 
 ## Welcome
 
+### More changes
+
 ```{r}
 # get libraries
 if (!require(librarian)){
